@@ -1,0 +1,1 @@
+/Users/mikedevelops/.config/zsh/.zshrc
